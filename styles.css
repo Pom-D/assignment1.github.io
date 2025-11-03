@@ -1,0 +1,62 @@
+html {
+    background-image: url('background.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+body {
+    opacity: 0.8;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 5%;
+    margin: 0 auto;
+    width: 1000px;
+    border-style: inset;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main {
+    margin: 10px;
+    float: left;
+    width: 700px;
+    height: 200px;
+    border-style: inset;
+    position: left;
+}
+
+img {
+    margin: 10px;
+    font-size: 15px;
+    text-align: center;
+    float: right;
+    width: 200;
+    height: 200px;
+    border-style: inset;
+    position: left;
+}
+
+.other {
+    margin: 10px;
+    float: left;
+    width: 970px;
+    height: 700px;
+    border-style: inset;
+    position: left;
+}
+
+h3{
+    margin-left: 10px;
+}
+
+table{
+    margin-left: 38px;
+}
+
+footer{
+    float: right;
+}
+
+a{
+    margin-left: 10px;
+}
